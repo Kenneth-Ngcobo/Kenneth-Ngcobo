@@ -1,13 +1,14 @@
 # Kenneth N. Ngcobo
 
-**Software & Electronics Engineer**  
+## Software & Electronics Engineer
+
 📍 Johannesburg, South Africa  
 📫 [nk.fuze@gmail.com](mailto:nk.fuze@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/kenneth-ngcobo-218b6746) | [GitHub](https://github.com/)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am an experienced **Software and Electronics Engineer** with a strong track record in full-stack web development and embedded systems. I specialize in building scalable web applications and consulting in the **LED lighting industry**, offering complete lifecycle services from concept to production.
 
@@ -15,7 +16,7 @@ With a passion for innovation and teaching, I also design and coach software dev
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Software & Web Development
 
@@ -56,7 +57,7 @@ With a passion for innovation and teaching, I also design and coach software dev
 
 ---
 
-## 💼 Projects
+## Projects
 
 ### Inventory and Job Management System
 
