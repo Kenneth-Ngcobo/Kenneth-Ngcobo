@@ -3,8 +3,7 @@
 ## Software & Electronics Engineer
 
 📍 Johannesburg, South Africa  
-📫 [nk.fuze@gmail.com](mailto:nk.fuze@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/kenneth-ngcobo-218b6746) | [GitHub](https://github.com/)
+📫 [nk.fuze@gmail.com](mailto:nk.fuze@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/kenneth-ngcobo-218b6746)
 
 ---
 
